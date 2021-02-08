@@ -5,6 +5,6 @@ const bodyParser = require('body-parser');
 
 
 //Error Post
-// router.post('/notes/list', acl, bodyParser.json());
+// router.post('/error/list', bodyParser.json());
 
 module.exports = router;
