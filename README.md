@@ -11,7 +11,7 @@ cd centralized-logging-system
 npm install
 ```
 
-Run Docker Compose file which help you with virtual Postgres & PgAdmin running on your system
+Run Docker Compose file which help you run in virtual env for Postgres & PgAdmin on your local system
 ```
 docker-compose up
 ```
